@@ -8,4 +8,9 @@ public class SampleProgram {
 	{
 		System.out.println("programmer");
 	}
+	@Test
+	public void sample1()
+	{
+		System.out.println("programmer1");
+	}
 }
