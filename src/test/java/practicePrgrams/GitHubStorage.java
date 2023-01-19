@@ -8,16 +8,5 @@ public class GitHubStorage {
 	{
 		System.out.println("gitHub");
 	}
-	@Test
-	public void ram()
-	{
-		System.out.println("jayaram");
-	}
-	@Test
-	public void git1()
-	{
-		System.out.println("gitHub1");
-
-	}
 
 }
