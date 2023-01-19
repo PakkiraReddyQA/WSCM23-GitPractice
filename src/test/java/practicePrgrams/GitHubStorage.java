@@ -13,5 +13,11 @@ public class GitHubStorage {
 	{
 		System.out.println("jayaram");
 	}
+	@Test
+	public void git1()
+	{
+		System.out.println("gitHub1");
+
+	}
 
 }
