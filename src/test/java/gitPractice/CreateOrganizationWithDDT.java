@@ -92,7 +92,6 @@ public class CreateOrganizationWithDDT {
 		 else {
 			 System.out.println("failed");
 		 }
-		 //step8:logout
 		 
 		 WebElement element2 = driver.findElement(By.xpath("//img[@src='themes/softed/images/user.PNG']"));
 		 Actions act=new Actions(driver);
