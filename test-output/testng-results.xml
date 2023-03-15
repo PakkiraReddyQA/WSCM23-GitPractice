@@ -2,16 +2,16 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2023-03-15T17:09:53 IST" name="Default suite" finished-at="2023-03-15T17:09:53 IST" duration-ms="35">
+  <suite started-at="2023-03-15T17:49:14 IST" name="Default suite" finished-at="2023-03-15T17:49:14 IST" duration-ms="44">
     <groups>
     </groups>
-    <test started-at="2023-03-15T17:09:53 IST" name="Default test" finished-at="2023-03-15T17:09:53 IST" duration-ms="35">
-      <class name="practicePrgrams.Sum">
-        <test-method signature="TotalSum()[pri:0, instance:practicePrgrams.Sum@16a0ee18]" started-at="2023-03-15T17:09:53 IST" name="TotalSum" finished-at="2023-03-15T17:09:53 IST" duration-ms="10" status="PASS">
+    <test started-at="2023-03-15T17:49:14 IST" name="Default test" finished-at="2023-03-15T17:49:14 IST" duration-ms="44">
+      <class name="practicePrgrams.Abc123">
+        <test-method signature="Run()[pri:0, instance:practicePrgrams.Abc123@78123e82]" started-at="2023-03-15T17:49:14 IST" name="Run" finished-at="2023-03-15T17:49:14 IST" duration-ms="12" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- TotalSum -->
-      </class> <!-- practicePrgrams.Sum -->
+        </test-method> <!-- Run -->
+      </class> <!-- practicePrgrams.Abc123 -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
