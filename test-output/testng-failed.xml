@@ -3,11 +3,11 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="javaBasicPrograms.javaBasics">
+      <class name="practicePrgrams.WriteDataIntoExcelSheet">
         <methods>
-          <include name="bubbleSort"/>
+          <include name="writeDataIntoExcelSheet"/>
         </methods>
-      </class> <!-- javaBasicPrograms.javaBasics -->
+      </class> <!-- practicePrgrams.WriteDataIntoExcelSheet -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->

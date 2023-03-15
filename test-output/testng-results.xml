@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results ignored="2" total="3" passed="1" failed="0" skipped="0">
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2023-01-19T14:36:50 IST" name="Default suite" finished-at="2023-01-19T14:36:50 IST" duration-ms="49">
+  <suite started-at="2023-02-09T21:18:59 IST" name="Default suite" finished-at="2023-02-09T21:18:59 IST" duration-ms="41">
     <groups>
     </groups>
-    <test started-at="2023-01-19T14:36:50 IST" name="Default test" finished-at="2023-01-19T14:36:50 IST" duration-ms="49">
-      <class name="practicePrgrams.GitHubStorage">
-        <test-method signature="ram()[pri:0, instance:practicePrgrams.GitHubStorage@51f116b8]" started-at="2023-01-19T14:36:50 IST" name="ram" finished-at="2023-01-19T14:36:50 IST" duration-ms="6" status="PASS">
+    <test started-at="2023-02-09T21:18:59 IST" name="Default test" finished-at="2023-02-09T21:18:59 IST" duration-ms="41">
+      <class name="practicePrgrams.RandomNumberPractice">
+        <test-method signature="getRandomNumber()[pri:0, instance:practicePrgrams.RandomNumberPractice@770d3326]" started-at="2023-02-09T21:18:59 IST" name="getRandomNumber" finished-at="2023-02-09T21:18:59 IST" duration-ms="7" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- ram -->
-      </class> <!-- practicePrgrams.GitHubStorage -->
+        </test-method> <!-- getRandomNumber -->
+      </class> <!-- practicePrgrams.RandomNumberPractice -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
