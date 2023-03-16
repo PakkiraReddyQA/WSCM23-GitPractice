@@ -2,16 +2,16 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2023-03-15T18:47:05 IST" name="Default suite" finished-at="2023-03-15T18:47:05 IST" duration-ms="42">
+  <suite started-at="2023-03-16T10:56:34 IST" name="Default suite" finished-at="2023-03-16T10:56:34 IST" duration-ms="43">
     <groups>
     </groups>
-    <test started-at="2023-03-15T18:47:05 IST" name="Default test" finished-at="2023-03-15T18:47:05 IST" duration-ms="42">
-      <class name="practicePrgrams.Xyz999">
-        <test-method signature="name()[pri:0, instance:practicePrgrams.Xyz999@78123e82]" started-at="2023-03-15T18:47:05 IST" name="name" finished-at="2023-03-15T18:47:05 IST" duration-ms="11" status="PASS">
+    <test started-at="2023-03-16T10:56:34 IST" name="Default test" finished-at="2023-03-16T10:56:34 IST" duration-ms="43">
+      <class name="practicePrgrams.Prog16">
+        <test-method signature="Withdrawl()[pri:0, instance:practicePrgrams.Prog16@78123e82]" started-at="2023-03-16T10:56:34 IST" name="Withdrawl" finished-at="2023-03-16T10:56:34 IST" duration-ms="11" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- name -->
-      </class> <!-- practicePrgrams.Xyz999 -->
+        </test-method> <!-- Withdrawl -->
+      </class> <!-- practicePrgrams.Prog16 -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
