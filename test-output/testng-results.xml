@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results ignored="2" total="3" passed="1" failed="0" skipped="0">
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2023-01-19T14:36:50 IST" name="Default suite" finished-at="2023-01-19T14:36:50 IST" duration-ms="49">
+  <suite started-at="2023-04-19T22:57:58 IST" name="Default suite" finished-at="2023-04-19T22:58:40 IST" duration-ms="41850">
     <groups>
     </groups>
-    <test started-at="2023-01-19T14:36:50 IST" name="Default test" finished-at="2023-01-19T14:36:50 IST" duration-ms="49">
-      <class name="practicePrgrams.GitHubStorage">
-        <test-method signature="ram()[pri:0, instance:practicePrgrams.GitHubStorage@51f116b8]" started-at="2023-01-19T14:36:50 IST" name="ram" finished-at="2023-01-19T14:36:50 IST" duration-ms="6" status="PASS">
+    <test started-at="2023-04-19T22:57:58 IST" name="Default test" finished-at="2023-04-19T22:58:40 IST" duration-ms="41850">
+      <class name="verificationLinks.VerifyLinks">
+        <test-method signature="verification()[pri:0, instance:verificationLinks.VerifyLinks@6fd83fc1]" started-at="2023-04-19T22:57:58 IST" name="verification" finished-at="2023-04-19T22:58:40 IST" duration-ms="41811" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- ram -->
-      </class> <!-- practicePrgrams.GitHubStorage -->
+        </test-method> <!-- verification -->
+      </class> <!-- verificationLinks.VerifyLinks -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
