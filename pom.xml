@@ -7,14 +7,19 @@
   
   <dependencies>
 	  
+
 	  <!-- this tesNG untit testing tool-->
+	  <!-- This is a Selenium Dependncy -->
+	
+		
+	  <!-- this is a TestNG Tool-->
 	  <dependency>
 			<groupId>org.testng</groupId>
 			<artifactId>testng</artifactId>
 			<version>7.4.0</version>
 		</dependency>
 		<!-- https://mvnrepository.com/artifact/org.seleniumhq.selenium/selenium-java -->
-<dependency>
+ <dependency>
     <groupId>org.seleniumhq.selenium</groupId>
     <artifactId>selenium-java</artifactId>
     <version>4.8.3</version>
@@ -65,12 +70,16 @@
     <version>1.9.13</version>
 </dependency>
 <!-- https://mvnrepository.com/artifact/io.github.bonigarcia/webdrivermanager -->
-<dependency>
-    <groupId>io.github.bonigarcia</groupId>
-    <artifactId>webdrivermanager</artifactId>
-    <version>3.8.1</version>
-</dependency>
 
 
+		<!-- this used for automatically setup Drivers -->
+		
+		<!-- https://mvnrepository.com/artifact/io.github.bonigarcia/webdrivermanager -->
+		<dependency>
+			<groupId>io.github.bonigarcia</groupId>
+			<artifactId>webdrivermanager</artifactId>
+			<version>3.8.1</version>
+		</dependency>
+		
   </dependencies>
 </project>

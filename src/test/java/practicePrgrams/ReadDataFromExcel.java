@@ -13,7 +13,7 @@ public class ReadDataFromExcel {
 	@Test
 	public void readDataFromExcel() throws EncryptedDocumentException, IOException
 	{
-		FileInputStream fis=new FileInputStream("src\\test\\resources\\TestData.xlsx");
+		FileInputStream fis=new FileInputStream(".\\src\\test\\resources\\TestData.xlsx");
 		Workbook book = WorkbookFactory.create(fis);
 		Sheet sh = book.getSheet("Organization");
 		String value = sh.getRow(4).getCell(2).getStringCellValue();
