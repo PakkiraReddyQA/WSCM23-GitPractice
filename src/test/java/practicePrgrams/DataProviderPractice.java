@@ -4,7 +4,7 @@ import org.testng.annotations.DataProvider;
 import org.testng.annotations.Test;
 
 public class DataProviderPractice {
-	@Test(dataProvider = "phone")
+	@Test(dataProvider = "getData1")
 	public void dataproviderTest(String phone,int price,String model)
 	{
 		System.out.println(phone+" "+price+" "+model);

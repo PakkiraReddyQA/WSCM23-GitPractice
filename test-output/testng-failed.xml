@@ -3,11 +3,17 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="practicePrgrams.WriteDataIntoExcelSheet">
+      <class name="gopiProject.ClickDesigner">
         <methods>
-          <include name="writeDataIntoExcelSheet"/>
+          <include name="Launch_Database"/>
+          <include name="Logout"/>
+          <include name="clickDesignerTest"/>
+          <include name="Close_Database"/>
+          <include name="Launch_Browser"/>
+          <include name="Login"/>
+          <include name="Close_Browser"/>
         </methods>
-      </class> <!-- practicePrgrams.WriteDataIntoExcelSheet -->
+      </class> <!-- gopiProject.ClickDesigner -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
